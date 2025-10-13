@@ -9,7 +9,7 @@
 * React
  
 
-##### 🟣 [Creative FE resume](https://github.com/Ekvisa/FrontendResume) (with a self-portrait 👩‍🎤)
+#### 🟣 [Creative FE resume](https://github.com/Ekvisa/FrontendResume) (with a self-portrait 👩‍🎤)
  
 👾 I love creating small projects for fun and learn. Here are some beloved but unpinned projects:
 * [Mondrian](https://github.com/Ekvisa/Mondrian): a picture created by SCSS ([Live](https://ekvisa.github.io/MomFriendsDesigner/)),
