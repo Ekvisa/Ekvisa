@@ -1,12 +1,11 @@
 # 🪻 Ekvisa
 
-🌿 Learning to turn the poetry of code into the art of applications. My current playground is Frontend.
+Learning to turn the poetry of code into the art of applications. My current playground is Frontend.
 
-### Tech Stack
-* HTML
-* CSS
-* JS
-* React
+### Main Stack
+* **HTML + CSS** — deep knowledge of semantic, adaptive, and clean layouts (Sass / Flex / Grid / Bootstrap / Tailwind) 🌾
+* **JavaScript** — solid level, confident with logic, API, DOM, and application structure 🌿
+* **React** — beginner level, exploring components and modern front-end flow 🌱
  
 
 #### 🟣 [Creative FE resume](https://github.com/Ekvisa/FrontendResume) (with a self-portrait 👩‍🎤)
