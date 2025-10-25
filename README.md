@@ -9,7 +9,7 @@ Learning to turn the poetry of code into the art of applications. My current pla
 
 #### 🟣 [Creative FE resume](https://github.com/Ekvisa/FrontendResume) (with a self-portrait 👩‍🎤)
  
-👾 I enjoy creating projects for fun and learn. Except pinned ones, I love these small ones:
+👾 I enjoy creating projects for fun and learn. Except pinned ones, I love these:
 * [JS Calendar](https://github.com/Ekvisa/JSCalendar): wall calendar in JS ([Live](https://ekvisa.github.io/JSCalendar/)),
 * [Box of kittens](https://github.com/Ekvisa/BoxOfKittens): help cats and kittens find each other ([Live](https://ekvisa.github.io/BoxOfKittens/)),
 * [IT Cups](https://github.com/Ekvisa/ITCups): Einstein task about family, technologies, cups and drinks ([Live](https://ekvisa.github.io/ITCups/))
